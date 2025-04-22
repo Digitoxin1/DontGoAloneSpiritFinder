@@ -5,4 +5,4 @@ It is a self contained .html file and can be launched in any modern browser.
 
 View the Interactive Spirit Finder here
 
-[Don't Go Alone Interactive Spirit Finder](https://digitoxin1.github.io/DontGoAloneSpiritFinder/DontGoAloneSpiritFinder/blob/main/Don't%20Go%20Alone%20-%20Spirit%20Finder%20(1989).html)
+[Don't Go Alone Interactive Spirit Finder](https://digitoxin1.github.io/DontGoAloneSpiritFinder/Don't%20Go%20Alone%20-%20Spirit%20Finder%20(1989).html)
